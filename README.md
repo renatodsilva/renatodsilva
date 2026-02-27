@@ -10,13 +10,11 @@
 
 ###
 
-<p align="left">Improve back-end development skills
+<p align="left">I’m passionate about technology and driven by continuous improvement. I enjoy understanding how systems work behind the scenes and turning ideas into functional solutions through code.
 
-Build practical projects
+Currently, I’m focused on learning Python and strengthening my foundation in programming logic, data structures, and back-end development. I value clean code, organization, and writing solutions that are both efficient and maintainable.
 
-Gain real-world experience
-
-Grow as a developer</p>
+Beyond technical skills, I’m constantly working on improving my problem-solving ability, communication, and teamwork. My goal is to keep evolving as a developer and contribute to meaningful projects that create real impact.</p>
 
 ###
 
