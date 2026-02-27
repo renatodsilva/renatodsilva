@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">I am a Systems Analysis and Development student, constantly looking to grow in the technology field.<br><br>I enjoy understanding how systems work behind the scenes and I’m always looking to improve both my technical and interpersonal skills.</p>
+<p align="left">Improve back-end development skills
+
+Build practical projects
+
+Gain real-world experience
+
+Grow as a developer</p>
 
 ###
 
